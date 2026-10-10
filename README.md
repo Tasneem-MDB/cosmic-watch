@@ -24,3 +24,5 @@ Python · PostgreSQL · dbt · Airflow · Docker · Streamlit
 ## Workflow
 - Branch from `main`: `cos-12-short-description` (use the Linear issue ID)
 - Open a PR with `Closes COS-12` in the description; Linear moves the issue automatically
+
+Team: Tasneem-MDB
